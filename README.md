@@ -1,7 +1,5 @@
 <h1 align="center">✨Hola✨</h1>
-<h2 align="center">Soy Jisus, y te doy la bienvenida a mi github</h2>
-<h3 align="center">Un pequeño entusiasta de Software y creador de dibujos</h3>
-
+<h2 align="center">Soy Jesús Stanley Arce Dueñas coodigo 20200339, y te doy la bienvenida a mi Primer perfil</h2>
 <pre>
                                                      ___
                                                   ,o88888
